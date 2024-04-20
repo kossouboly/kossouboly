@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kossouboly
-- 👀 I’m interested in java fullstack programming and mern stack.
-- 🌱 I’m currently learning java , mern stack and  student at alx software engineering program
+- 👀 I’m interested by java fullstack 
 - 💞️ I’m looking to collaborate on project with other dev
 - 📫 How to reach me tedji90@gmail.com
 
